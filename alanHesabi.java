@@ -1,4 +1,3 @@
-import java.lang.FdLibm.Pow;
 import java.util.Scanner;
 
 public class alanHesabi {
@@ -16,7 +15,7 @@ public class alanHesabi {
 
         double[] kenar = new double[3];
         double u = 0;
-
+        System.out.println("Alanını istediğiniz üçgenin kenarlarını girin:");
         for(int i = 0; i < 3; i++) {
             kenar[i] = input2.nextDouble();
             u += kenar[i];
