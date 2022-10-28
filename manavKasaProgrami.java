@@ -4,6 +4,15 @@ public class manavKasaProgrami {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
+        /*
+         * Array'deki indekslendirme:
+         * Armut: 0
+         * Elma: 1
+         * Domates: 2
+         * Muz: 3
+         * Patlıcan: 4
+         */
+
         double[] fiyat = {2.14, 3.67, 1.11, 0.95, 5.00};
         double[] tutar = new double[5];
         System.out.print("Armut kaç kilo?");
