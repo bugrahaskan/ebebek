@@ -1,5 +1,3 @@
-package com.bugra.drafts;
-
 class EmployeeTest {
 
     public static void main(String args[]) {

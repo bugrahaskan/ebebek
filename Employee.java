@@ -1,5 +1,3 @@
-package com.bugra.drafts;
-
 import java.util.Date;
 
 class Employee {
